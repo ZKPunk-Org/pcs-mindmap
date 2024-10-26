@@ -1,4 +1,5 @@
 # pcs-mindmap
+Authored by Guo Yu, Kurt Pan, [Queenie Wu](https://twitter.com/isqueeniee)
 ```mermaid
 graph TB
     %% Nodes for each paper with links
